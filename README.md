@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **samanvithaburle1997@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Sburle43/resume.github.io/blob/255b33edf1273fc68bff5eb9d25a820bdc9a766f/Samanvitha.pdf](https://github.com/Sburle43/resume.github.io/blob/255b33edf1273fc68bff5eb9d25a820bdc9a766f/Samanvitha.pdf)
+- 📄 Know about my experiences [https://github.com/Sburle43/sburle43/blob/69127fb53651d62d395342178cb2c8b08e4ec810/Samanvitha.pdf](https://github.com/Sburle43/sburle43/blob/69127fb53651d62d395342178cb2c8b08e4ec810/Samanvitha.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
